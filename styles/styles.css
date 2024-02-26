@@ -48,12 +48,12 @@ body {
 .mesa__dj .corpo button {
   background-color: var(--cor-botao-impar);
   border: 3px solid var(--cor-borda);
-  width: 50px;
+  width: 70px;
   height: 50px;
   cursor: pointer;
   opacity: 0.8;
   transition: 0.3s all ease;
-  font-size: 20px;
+  font-size: 15px;
   justify-self: center;
 }
 
